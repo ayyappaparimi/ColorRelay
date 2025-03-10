@@ -1,0 +1,46 @@
+Title: Color Relay: A Team Communication Challenge
+
+Overview:
+Color Relay is a fast-paced, team-based coordination challenge where players must pick colored balls in a predefined sequence—Red, Blue, and Green—while effectively communicating their choices to teammates. The game introduces a dynamic element where players must relay real-time information about their picks, ensuring the sequence is maintained across turns. If a player selects multiple balls, the following player must adjust their picks accordingly while keeping the pattern intact. The objective is to complete the sequences as quickly and accurately as possible, strengthening teamwork and communication under pressure.
+
+Value Statement:
+Effective communication and synchronization are critical components of successful team dynamics, both in sports and strategy-based games. Color Relay enhances these skills by requiring players to swiftly and clearly communicate their choices, ensuring the entire team remains synchronized. This game fosters active listening, quick decision-making, and trust among teammates, making it an excellent tool for building coordination in high-pressure situations. The interactive and gamified nature ensures an engaging and enjoyable experience for players while reinforcing critical teamwork skills.
+
+Solution:
+
+Game Mechanics:
+
+Players take turns picking colored balls in the required sequence (Red → Blue → Green).
+
+If a player picks a different color (e.g., Blue first), the sequence dynamically adjusts, requiring the next player to pick the correct subsequent color (e.g., Green → Red).
+
+If a player picks multiple balls (e.g., Red and Blue), the next player must pick the next two in order (e.g., Blue, Green), ensuring sequence continuity.
+
+Players communicate in real-time through an in-app chat or voice feature, keeping the team informed of their choices.
+
+Integration with Game Mechanics:
+
+Time-Based Challenges: Teams must complete a set number of cycles within a time limit.
+
+Scoreboard & Ranking: Performance is measured by accuracy and speed, with leaderboards to encourage competition.
+
+AI & Adaptive Difficulty: Higher levels introduce unpredictable elements like time penalties for errors or additional color variations.
+
+Evaluation Statement:
+Pros:
+
+Enhances real-time communication, coordination, and teamwork.
+
+Encourages strategic planning and adaptability under pressure.
+
+Offers an engaging, interactive experience that fosters collaboration.
+
+Cons:
+
+May require a learning curve for teams to synchronize efficiently.
+
+Could be challenging in noisy environments without proper communication channels.
+
+Some players may struggle with rapid decision-making, requiring optional difficulty adjustments.
+
+By integrating Color Relay into the game, players will develop stronger communication skills while engaging in a fun and competitive activity. This feature will not only enhance teamwork but also create an exciting challenge that keeps players coming back for more.
